@@ -10,5 +10,9 @@
 		   },
 		"emmet.includeLanguages": {"jinja-html": "html"},
 		"editor.defaultFormatter": "vscode.emmet",
+		"cSpell.words": [
+			"sqlalchemy",
+			"wtforms"
+		],
 	}
 }
